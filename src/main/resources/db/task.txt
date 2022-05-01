@@ -1,0 +1,10 @@
+Write a spring boot microservice to manage the domain model Tags. The tags have the following model:
+Tag:
+- key: string
+- value: string
+
+The microservice should expose a REST API to list, add, delete, and update individual tags.
+Please write unit and integration tests using junit5.
+Use H2 as the database.
+
+Please include a readme to facilitate running the microservice.
